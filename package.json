@@ -1,0 +1,9 @@
+{
+  "name": "panceta-firefox",
+  "title": "Panceta Player",
+  "id": "jid1-fsoCCZn5Z9KYSQ",
+  "description": "Panceta Add-on for Firefox",
+  "author": "Guido Garcia <palmerabollo@gmail.com>",
+  "license": "MPL 2.0",
+  "version": "1.0.0"
+}
